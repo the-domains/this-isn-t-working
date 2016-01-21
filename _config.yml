@@ -1,7 +1,7 @@
 name: "This isn't working"
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.49902
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
