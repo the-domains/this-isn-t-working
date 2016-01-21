@@ -1,0 +1,28 @@
+name: "This isn't working"
+favicon: null
+layout_spectrum: 0.036592668388038874
+typography_spectrum: 0.7371441852301359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7116869550663978
+  lightness: 0.828831393038854
+  saturation: 0.3524534818716347
+  rhythmicContrast: 0.5044462077785283
+purpose: []
